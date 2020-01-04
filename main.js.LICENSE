@@ -1,0 +1,89 @@
+/*!**************************************!*\
+  !*** ./src/js/app/homepage/index.js ***!
+  \**************************************/
+
+/*! no static exports found */
+
+/*! all exports used */
+
+/*! ModuleConcatenation bailout: Module is not an ECMAScript module */
+
+/*! @babel/runtime/helpers/classCallCheck */
+
+/*! @babel/runtime/helpers/createClass */
+
+/*! ./posts/initialization */
+
+/*! ../shared/navbar/initialization */
+
+/*! @babel/runtime/helpers/interopRequireDefault */
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/nonIterableSpread.js ***!
+  \******************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/iterableToArray.js ***!
+  \****************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js ***!
+  \******************************************************************/
+
+/*!*****************************************************!*\
+  !*** ./src/js/app/homepage/posts/initialization.js ***!
+  \*****************************************************/
+
+/*! ../../shared/safe-foreach */
+
+/*! ./insertion */
+
+/*!************************************************!*\
+  !*** ./src/js/app/homepage/posts/insertion.js ***!
+  \************************************************/
+
+/*! @babel/runtime/helpers/toConsumableArray */
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/toConsumableArray.js ***!
+  \******************************************************************/
+
+/*! ./arrayWithoutHoles */
+
+/*! ./iterableToArray */
+
+/*! ./nonIterableSpread */
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \**********************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/createClass.js ***!
+  \************************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/typeof.js ***!
+  \*******************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/classCallCheck.js ***!
+  \***************************************************************/
+
+/*!*******************************************!*\
+  !*** ./src/js/app/shared/safe-foreach.js ***!
+  \*******************************************/
+
+/*! @babel/runtime/helpers/typeof */
+
+/*!****************************************************!*\
+  !*** ./src/js/app/shared/navbar/initialization.js ***!
+  \****************************************************/
+
+/*! ../safe-foreach */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*! ./js/app/homepage/index */
